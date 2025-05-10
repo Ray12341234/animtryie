@@ -1,5 +1,5 @@
 {
-  "id": "staic.ray",
+  "id": "static.ray",
   "version": "1.0.0",
   "name": "Rays playlist",
   "description": "cool",
@@ -14,7 +14,7 @@
     {
       "type": "movie",
       "id": "staticCatalog",
-      "url": "https://raw.githubusercontent.com/Ray12341234/animtryie/refs/heads/main/catalog/movie/staticCatalog.json"
+      "url": "https://raw.githubusercontent.com/Ray12341234/animtryie/65b26d74afdbb0475544b7d1023d84d322edd8e8/catalog/movie/staticCatalog.json"
     }
   ],
   "idPrefixes": [
