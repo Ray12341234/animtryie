@@ -14,13 +14,13 @@
     {
       "type": "movie",
       "id": "staticCatalog",
-      "url": "https://raw.githubusercontent.com/Ray12341234/animtryie/65b26d74afdbb0475544b7d1023d84d322edd8e8/catalog/movie/staticCatalog.json"
+      "url": "https://raw.githubusercontent.com/Ray12341234/animtryie/66d0b5f72b505e0c417e8055fd9f404ded62939d/catalog/movie/staticCatalog.json"
     }
   ],
   "idPrefixes": [
     "vid"
   ],
   "stream": {
-    "movie": "https://raw.githubusercontent.com/Ray12341234/animtryie/320d79fd75a3a7009c510ee02c229dbc3fa45dcf/stream/movie/srm1.json"
+    "movie": "https://raw.githubusercontent.com/Ray12341234/animtryie/23ff97dc10a8457f0d1b8cf101c292ceaf22f064/stream/movie/tt111.json"
   }
 }
