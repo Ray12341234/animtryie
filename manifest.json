@@ -1,0 +1,22 @@
+{
+  "id": "staic.ray",
+  "version": "1.0.0",
+  "name": "Rays playlist",
+  "description": "cool",
+  "resources": [
+    "catalog",
+    "stream"
+  ],
+  "types": [
+    "movie"
+  ],
+  "catalogs": [
+    {
+      "type": "movie",
+      "id": "staticCatalog"
+    }
+  ],
+  "idPrefixes": [
+    "vid"
+  ]
+}
