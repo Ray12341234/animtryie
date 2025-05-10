@@ -14,7 +14,7 @@
     {
       "type": "movie",
       "id": "staticCatalog",
-      "url": "https://raw.githubusercontent.com/Ray12341234/animtryie/refs/heads/main/stream/movie/srm1.json"
+      "url": "https://raw.githubusercontent.com/Ray12341234/animtryie/refs/heads/main/catalog/movie/staticCatalog.json"
     }
   ],
   "idPrefixes": [
