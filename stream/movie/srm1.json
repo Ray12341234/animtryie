@@ -2,7 +2,12 @@
   "streams": [
     {
       "title": "Stream",
-      "url": "https://ia601709.us.archive.org/3/items/master-master/master%20%5Bmaster%5D.mp4"
+      "url": "https://ia601709.us.archive.org/3/items/master-master/master%20%5Bmaster%5D.mp4",
+      "behaviorHints": {
+        "notWebReady": false
+      },
+      "name": "main",
+      "description": "Direct stream source"
     }
   ]
 }
