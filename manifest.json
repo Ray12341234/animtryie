@@ -13,10 +13,14 @@
   "catalogs": [
     {
       "type": "movie",
-      "id": "staticCatalog"
+      "id": "staticCatalog",
+      "url": "https://raw.githubusercontent.com/Ray12341234/animtryie/refs/heads/main/stream/movie/srm1.json"
     }
   ],
   "idPrefixes": [
     "vid"
-  ]
+  ],
+  "stream": {
+    "movie": "https://raw.githubusercontent.com/Ray12341234/animtryie/refs/heads/main/stream/movie/srm1.json"
+  }
 }
